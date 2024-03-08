@@ -37,4 +37,11 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## My note
 
-this is a 
+### creating reusable components -> store them in component file -> create index.ts to get all component files into it -> only have to export index.ts to use all components
+
+### reusable components will have props needed to be pass -> create types folder and add interface(type/requirements) of props there in one place
+
+### layout.tsx will be showing everything and apply to every page -> if you want to add nav or footer add there
+
+### the use of headleass UI (Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
+)
