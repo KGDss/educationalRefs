@@ -5,9 +5,10 @@ import { fuels, yearsOfProduction } from "@/constants";
 import { fetchCars } from "@/utils";
 import Image from "next/image";
 import { useEffect, useState } from "react";
+import { CarState } from "@/types";
 
 export default function Home() {
-  const [allCars, setAllCars] = useState([]);
+  const [allCars, setAllCars] = useState<CarState>([]);
   const [loading, setLoading] = useState(false);
   const [manufacturer, setManufacturer] = useState("");
   const [model, setModel] = useState("");
