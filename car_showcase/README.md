@@ -1,4 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
 To access the project in vercel go to : https://educational-refs-m79f.vercel.app/
 
 ## Getting Started
