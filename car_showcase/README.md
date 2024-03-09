@@ -1,4 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+To access the project in vercel go to : https://educational-refs-m79f.vercel.app/
 
 ## Getting Started
 
@@ -37,11 +38,11 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## My note
 
-### creating reusable components -> store them in component file -> create index.ts to get all component files into it -> only have to export index.ts to use all components
+creating reusable components -> store them in component file -> create index.ts to get all component files into it -> only have to export index.ts to use all components
 
-### reusable components will have props needed to be pass -> create types folder and add interface(type/requirements) of props there in one place
+reusable components will have props needed to be pass -> create types folder and add interface(type/requirements) of props there in one place
 
-### layout.tsx will be showing everything and apply to every page -> if you want to add nav or footer add there
+layout.tsx will be showing everything and apply to every page -> if you want to add nav or footer add there
 
-### the use of headleass UI (Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
+the use of headleass UI (Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 )
